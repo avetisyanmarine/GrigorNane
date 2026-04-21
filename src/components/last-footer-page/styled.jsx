@@ -7,7 +7,7 @@ const LastFooterPagePart = styled.div`
 const LastFooterPagePartContext = styled.div`
     font-size: 18px;
     > p {
-        margin-top: 48px;
+        margin-top: 18px;
     }
     div {
         display: flex;
@@ -18,7 +18,6 @@ const LastFooterPagePartContext = styled.div`
             img {
                 padding: 11px;
                 border-right: 2px solid aliceblue;
-                /* border-radius: 50px; */
             }
             div {
                 display: block;

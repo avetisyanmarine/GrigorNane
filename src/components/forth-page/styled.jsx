@@ -12,7 +12,6 @@ const ForthPagePartContextLast = styled.div`
         display: block;
         margin: 50px auto;
     }
-
 `
 
 export { ForthPagePart, ForthPagePartContext, ForthPagePartContextLast }

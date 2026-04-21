@@ -1,18 +1,54 @@
 <!doctype html>
-<html lang="en">
+<html lang="hy">
+  <head>
+    <meta charset="UTF-8" />
 
-<head>
-  <meta charset="UTF-8" />
-  <link rel="preload" href="/font/ArmAllegroU.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/font/ArmenianDecorativeU-Italic.ttf" as="font" type="font/woff2" crossorigin>
-  <link rel="icon" type="image/svg+xml" href="/wedding.jpg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Wedding-Day</title>
-</head>
+    <!-- Font Preloads -->
+    <link
+      rel="preload"
+      href="/font/ArmAllegroU.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/font/ArmenianDecorativeU-Italic.ttf"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
 
-<body>
-  <div id="root"></div>
-  <script type="module" src="/src/main.jsx"></script>
-</body>
+    <link rel="icon" type="image/svg+xml" href="/wedding.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <!-- Հիմնական վերնագիրը -->
+    <title>Գրիգոր և Նանե</title>
+
+    <!-- Open Graph թեգեր սոցցանցերի համար -->
+    <meta property="og:title" content="Գրիգոր և Նանե" />
+    <meta
+      property="og:description"
+      content="Սիրով հրավիրում ենք ձեզ մեր հարսանյաց հանդեսին"
+    />
+    <meta
+      property="og:image"
+      content="https://grigor-nane.vercel.app/wedding.jpg"
+    />
+    <meta property="og:url" content="https://grigor-nane.vercel.app" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter-ի համար -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Գրիգոր և Նանե" />
+    <meta
+      name="twitter:image"
+      content="https://grigor-nane.vercel.app/wedding.jpg"
+    />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
 </html>

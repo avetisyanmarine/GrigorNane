@@ -88,8 +88,7 @@ export const SecondPage = () => {
         >
           <img src={BlockImage} className="mt-[6px]" alt="" />
           <p className="font-[600]">
-            Սերը հանդուրժող է, <br />
-            սերը բարի է<p className="mt-4">— Ա Կորնթացիներ 13:4</p>
+            Մի ողջ կյանք <br /> գումարած մի ամբողջ հավերժություն
           </p>
         </div>
       </Container>
@@ -108,7 +107,7 @@ export const SecondPage = () => {
           <h2 className="mb-10">Սիրելի հարազատներ և ընկերներ</h2>
           <Flexible className="font-[600]">
             <p>
-              Մեր սիրո ամենագեղեցիկ օրը մոտ է, և  ձեզ մեծ սիրով հրավիրում ենք
+              Մեր սիրո ամենագեղեցիկ օրը մոտ է, և ձեզ մեծ սիրով հրավիրում ենք
               տոնելու մեզ հետ այդ բացառիկ պահը։
             </p>
           </Flexible>

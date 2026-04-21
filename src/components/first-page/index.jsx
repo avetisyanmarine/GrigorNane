@@ -1,4 +1,4 @@
-import MainPhoto from "../../assets/image/mainPhoto.JPG";
+import MainPhoto from "../../assets/image/mainPhoto.jpg";
 import { Container, Flexible } from "../../GlobalStyle";
 import { FirstPagePart, FirstPagePartContext } from "./styled";
 

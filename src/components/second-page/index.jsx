@@ -2,11 +2,11 @@ import { SecondPagePart, GridDiv } from "./styled";
 import { Container, Flexible } from "../../GlobalStyle";
 import { useEffect, useState } from "react";
 import Photo2 from "../../assets/image/savethedate.png";
-import BlockImage from "../../assets/image/blockimage.jpg";
-import PhotoF1 from "../../assets/image/photof1.jpg";
-import PhotoGroup1 from "../../assets/image/groupphoto1.jpg";
-import PhotoGroup2 from "../../assets/image/groupphoto2.jpg";
-import PhotoGroup3 from "../../assets/image/groupphoto3.jpg";
+import BlockImage from "../../assets/image/blockimage.JPG";
+import PhotoF1 from "../../assets/image/photof1.JPG";
+import PhotoGroup1 from "../../assets/image/groupphoto1.JPG";
+import PhotoGroup2 from "../../assets/image/groupphoto2.JPG";
+import PhotoGroup3 from "../../assets/image/groupphoto3.JPG";
 import LineAes from "../../assets/image/lineaes.png";
 import { ThirdPagePartCalendar } from "../third-page/styled";
 

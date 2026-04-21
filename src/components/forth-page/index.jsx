@@ -4,8 +4,8 @@ import { ForthPagePart, ForthPagePartContext } from "./styled";
 import Church from "../../assets/image/church.jpg";
 import Restaurant from "../../assets/image/restaurant.webp";
 import HeartLine from "../../assets/image/heartline.png";
-import Photo3 from "../../assets/image/examp2.jpg";
-import LastPhoto from "../../assets/image/lastPhoto.jpg";
+import Photo3 from "../../assets/image/examp2.JPG";
+import LastPhoto from "../../assets/image/lastPhoto.JPG";
 
 export const ForthPage = () => {
   return (

@@ -9,8 +9,8 @@ export const FirstPage = () => {
       <Container>
         <FirstPagePartContext>
           <div className="mt-35 text-[#2D2929] maintext">
-            <p>Wedding day</p>
-            <h3>Գրիգոր & Նանե</h3>
+            <p>Միասին՝ Հավերժ</p>
+            <h3>Գրիգոր և Նանե</h3>
             <p>18.07.2026</p>
           </div>
         </FirstPagePartContext>

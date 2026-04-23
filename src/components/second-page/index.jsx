@@ -104,7 +104,7 @@ export const SecondPage = () => {
           </div>
         </div>
         <div className="mt-10 mb-7">
-          <h2 className="mb-10">Սիրելի հարազատներ և ընկերներ</h2>
+          <h2 className="mb-10">Սիրելի՝ ընկերներ և հարազատներ</h2>
           <Flexible className="font-[600]">
             <p>
               Մեր սիրո ամենագեղեցիկ օրը մոտ է, և ձեզ մեծ սիրով հրավիրում ենք

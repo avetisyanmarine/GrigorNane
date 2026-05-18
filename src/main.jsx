@@ -22,6 +22,7 @@ const Main = () => {
       document.body.style.position = "";
       document.body.style.top = "";
       document.body.style.width = "";
+      document.body.style.overflow = "auto";
     }
   }, [isOpened]);
 
